@@ -3,4 +3,4 @@ This repository contains loan datasets collected from LendingClub website that i
 1. [Project Proposal](https://github.com/nphan20181/Loan-Default-Prediction/blob/master/Capstone_Project_1_Proposal.pdf)
 2. Data Wrangling
    - Report
-   - [Code](https://github.com/nphan20181/Loan-Default-Prediction/blob/master/loan_data_wrangling.ipynb)
+   - [Jupyter Notebook](https://github.com/nphan20181/Loan-Default-Prediction/blob/master/loan_data_wrangling.ipynb)
