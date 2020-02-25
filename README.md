@@ -8,6 +8,6 @@ This repository contains loan datasets collected from LendingClub website that i
    - Descriptive Statistics
      - [Jupyter notebook](https://github.com/nphan20181/Loan-Default-Prediction/blob/master/lc_loan_data_story.ipynb)
    - Inferential Statistics
-     - [Report](https://github.com/nphan20181/Loan-Default-Prediction/blob/master/Inferential_Stats.pdf)
      - [Jupyter notebook](https://github.com/nphan20181/Loan-Default-Prediction/blob/master/lc_inferential_stats.ipynb)
-4. Data Modeling
+4. [Milestone Report](https://github.com/nphan20181/Loan-Default-Prediction/blob/master/p1_milestone_report.pdf)
+5. Data Modeling
