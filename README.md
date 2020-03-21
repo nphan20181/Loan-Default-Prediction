@@ -1,4 +1,4 @@
-# 2018 LendingClub Loan Data
+# Analysis of 2018 LendingClub Loan Data
 **LendingClub** (LC) is an online credit marketplace that enables a borrower to apply for a loan and an investor to select a loan to invest. When a borrower applies for a loan at LendingClub, the company will screen the applicant. If the loan application gets approved, LendingClub will provide the borrower the interest rate for the loan. Once the borrower accepts the loan, the loan is made available for the investors to select. The investor may choose to invest in a whole loan or a fractional part of a loan.
 
 This project aims at assisting LendingClub investors in the loan selection process by:
