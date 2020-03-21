@@ -15,7 +15,8 @@ This repository contains loan datasets collected from LendingClub website that i
    - [Descriptive Statistics](https://github.com/nphan20181/Loan-Default-Prediction/blob/master/lc_loan_data_story.ipynb)
    - [Inferential Statistics](https://github.com/nphan20181/Loan-Default-Prediction/blob/master/lc_inferential_stats.ipynb)
 4. [Milestone Report](https://github.com/nphan20181/Loan-Default-Prediction/blob/master/p1_milestone_report.pdf)
-5. Machine Learning Models
+5. Machine Learning (ML) Models
+   - [Data Preparation for ML Models](https://github.com/nphan20181/Loan-Default-Prediction/blob/master/lc_prep_data_for_ml.ipynb)
    - [Loan Classifier](https://github.com/nphan20181/Loan-Default-Prediction/blob/master/lc_random_forest_classifier.ipynb)
    - [Months-in-loan Estimator](https://github.com/nphan20181/Loan-Default-Prediction/blob/master/lc_random_forest_regressor.ipynb)
 6. Final Report
