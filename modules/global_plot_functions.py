@@ -12,3 +12,18 @@ def annotate_plot(ax):
         ax.annotate(format(p.get_height(), '.0f'), 
                     (p.get_x() + p.get_width() / 2., p.get_height()), ha = 'center', va = 'center', 
                     xytext = (0, 10), textcoords = 'offset points')
+
+def annotate_plot2(ax, n=0):
+    # annotate bar
+    for p in ax.patches:
+        # annotate frequency
+        if n == 0: h_adj = 1
+        else: h_adj = 2
+        ax.annotate(format(p.get_height(), '.0f'),
+            (p.get_x() + p.get_width() / 2., p.get_height()/h_adj), ha = 'center', va = 'center', 
+             xytext = (0, 10), textcoords = 'offset points')
+        
+        if n > 0:# annotate relative frequency
+            ax.annotate(format(p.get_height()*100 / n, '.0f') + '%', 
+               (p.get_x() + p.get_width() / 2., p.get_height()), ha = 'center', va = 'center', 
+                xytext = (0, 10), textcoords = 'offset points')  
