@@ -21,3 +21,4 @@ This repository contains loan datasets collected from LendingClub website that i
    - [Months-in-loan Estimator](https://github.com/nphan20181/Loan-Default-Prediction/blob/master/lc_random_forest_regressor.ipynb)
 6. [Final Report](https://github.com/nphan20181/Loan-Default-Prediction/blob/master/lc_final_report.pdf)
 7. [Powerpoint Presentation](https://github.com/nphan20181/Loan-Default-Prediction/blob/master/Phan_LC_Analysis.pdf)
+8. [Blog](https://medium.com/@nphan20181/analysis-of-2018-lendingclub-loan-data-703e1adcec70)
